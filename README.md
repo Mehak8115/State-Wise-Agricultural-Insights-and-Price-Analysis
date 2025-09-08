@@ -2,7 +2,7 @@
 
 **1. Introduction**
 
-This report provides an overview of agricultural commodities, markets, states, and price margins across India. The insights are derived from the Power BI dashboard, which consolidates agricultural data from multiple states and markets. The purpose is to analyze commodity distribution, price margins, and market diversity to understand agricultural trends.
+This report provides an overview of agricultural commodities, markets, states, and price margins across India. The insights are derived from the Power BI interactive dashboard, which consolidates agricultural data from multiple states and markets. The purpose is to analyze commodity distribution, price margins, and market diversity to understand agricultural trends.
 
 **2. Key Highlights**
 
